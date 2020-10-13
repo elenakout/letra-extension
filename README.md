@@ -39,6 +39,7 @@
 - 🇵🇭 Filipino
 - 🇫🇷 French
 - 🇩🇪 German
+- GR Greek
 - 🇮🇳 Hindi
 - 🇮🇩 Indonesian
 - 🇯🇵 Japanese
